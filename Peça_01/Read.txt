@@ -1,0 +1,7 @@
+Está peça possuí dimensões em milímetros, nela foi utilizado o software sscnc. O material bruto é de 125 mm x 60 Ø. A pastilha do torno será pastilha W para desbaste diretamente alocada na torre 01, e uma pastilha V de acabamento diretamente alocada na torre 02. Ambas as ferramentas podem ter 100 mm de tamanho como preferir e o sub programa fica por conta do usuário final definir.
+
+This part has dimensions in millimeters and was designed using the SSCNC software. The raw material is 125 mm x 60 Ø. The lathe insert for roughing will be a W insert, directly allocated in turret 01, and a V insert for finishing, directly allocated in turret 02. Both tools can be 100 mm in size as preferred, and the sub-program is left to the user to define.
+
+この部品はミリメートル単位での寸法があり、SSCNCソフトウェアを使用して設計されました。原材料は125 mm x 60 Øです。旋盤の荒加工用のツールはツールホルダー01に直接割り当てられたWツールホルダーで、仕上げ用のツールはツールホルダー02に直接割り当てられたVツールホルダーです。どちらのツールも100 mmのサイズで、ユーザーが定義するサブプログラムに任せられています。
+
+这个零件的尺寸以毫米为单位，使用SSCNC软件进行设计。原材料为125毫米x60Ø。车削刀片用于粗加工，将直接安装在刀塔01上，而用于精加工的刀片V将直接安装在刀塔02上。两种工具都可以选择100毫米的大小，子程序由用户自行定义。
